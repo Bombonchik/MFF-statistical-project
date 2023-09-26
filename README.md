@@ -1,7 +1,5 @@
 # **Statistical Analysis of Ethereum's Price Movement**
 
----
-
 ## **Overview:**
 
 This repository presents a detailed exploration into Ethereum's price trajectory over its 8-year history, capturing its daily trading metrics. The analysis peels back layers to discover patterns, relationships, and possible factors influencing price shifts.
@@ -14,13 +12,11 @@ The core of the study revolves around:
 
 For an in-depth view, refer to `report.ipynb` or the rendered `report.html`.
 
----
 
 ### **Dataset Source:**
 
 [CoinMarketCap](https://coinmarketcap.com/currencies/ethereum/historical-data/)
 
----
 
 ## **Key Insights:**
 
